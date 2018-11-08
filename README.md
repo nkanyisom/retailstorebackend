@@ -54,7 +54,7 @@ Steps to build and run locally:
 * Run following command to start the server on port 8086=> java -jar retail-store-app-0.0.1-SNAPSHOT.jar 
 * Optionally, one can configure port using commandline parameter => --server.port=9090 
 * Access and invoke APIs using url => http://localhost:8086/swagger-ui.html
-* Application will ask for authentication credentials during invocation of API's. Use 'bob' as user id and password.
+* Application will ask for authentication credentials during invocation of API's. Use 'test1' as user id and password.
 
 This application uses H2 database and does not persist data on application restarts. 
 
